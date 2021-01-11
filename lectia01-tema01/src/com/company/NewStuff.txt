@@ -1,0 +1,4 @@
+int lunaDinCnp = Integer.parseInt(cnp.substring(3,5));
+
+String numarPeNumarCaractereSpatii = String.format("%0" + numarCaractere + "d", numar);
+
